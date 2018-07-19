@@ -62,6 +62,26 @@
         	<artifactId>VisaPrePayCore</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+        	<groupId>rdn.vpp</groupId>
+        	<artifactId>VisaPrePayMobileApi</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>rdn.vpp</groupId>
+        	<artifactId>VisaPrePaySMS</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>rdn.vpp</groupId>
+        	<artifactId>VisaPrePaySoap</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>rdn.vpp</groupId>
+        	<artifactId>VisaPrePayCardApi</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
 	</dependencies>
 
 	<build>

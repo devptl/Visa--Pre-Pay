@@ -4,11 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>rdn.vpp</groupId>
-	<artifactId>VisaPrePayCore</artifactId>
+	<artifactId>VisaPrePayCardApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
-	<name>VisaPrePayCore</name>
-	<description>For Common element in VPP</description>
+	<name>VisaPrePayCardApi</name>
+	<description>Pay Card module</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -45,7 +46,7 @@
 		</dependency>
 		<dependency>
 			<groupId>rdn.vpp</groupId>
-			<artifactId>VisaPrePayDTO</artifactId>
+			<artifactId>VisaPrePayCore</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
