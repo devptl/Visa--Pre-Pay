@@ -64,7 +64,12 @@
         </dependency>
         <dependency>
         	<groupId>rdn.vpp</groupId>
-        	<artifactId>VisaPrePayMobileApi</artifactId>
+        	<artifactId>VisaPrePayCardAPI</artifactId>
+        	<version>0.0.1</version>
+        </dependency>
+        <dependency>
+        	<groupId>rdn.vpp</groupId>
+        	<artifactId>VisaPrePayMobileAPI</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
@@ -74,12 +79,7 @@
         </dependency>
         <dependency>
         	<groupId>rdn.vpp</groupId>
-        	<artifactId>VisaPrePaySoap</artifactId>
-        	<version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-        	<groupId>rdn.vpp</groupId>
-        	<artifactId>VisaPrePayCardApi</artifactId>
+        	<artifactId>VisaPrePaySOAP</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>
 	</dependencies>
